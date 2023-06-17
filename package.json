@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-stats-preview-nodejs-express",
 	"version": "1.0.0",
-	"description": "stats preview project using nodejs with express framework",
+	"description": "stats preview card component using nodejs with express framework",
 	"main": "index.js",
 	"scripts": {
 		"start-sass": "sass --watch src/scss/main.scss public/css/main.css",
