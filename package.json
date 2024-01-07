@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-stats-preview-nodejs-express",
 	"version": "1.0.0",
-	"description": "stats preview card component using nodejs with express framework",
+	"description": "stats preview card component using nodejs and express",
 	"main": "app.js",
 	"scripts": {
 		"start": "nodemon app.js",
